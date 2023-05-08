@@ -21,7 +21,7 @@ Instructions
 
 * Please complete ANYWAY’s [“getting the code” section](https://github.com/hasadna/anyway#getting-the-code) before starting
 
-**NOTE:** If you're using windows, complete the "getting the code" section after installing WSL, inside the new ubuntu environment.
+**NOTE:** If you're using windows, complete the "getting the code" section after installing WSL, inside the new ubuntu environment. Also, see further down about docker installation options for Windows. 
 
 **1.** [Get the code](https://github.com/hasadna/anyway#getting-the-code)
 
