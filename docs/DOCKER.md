@@ -100,6 +100,7 @@ $ sudo docker login docker.pkg.github.com -u USERNAME
 **6.** Go to the project's root directory and run:
     `sudo docker-compose up --build anyway`
 This will start the containers. It will take a few minutes until it's done.
+  * If you are running docker on Windows using WSL, you may need to start the `anyway` container via the Windows GUI.
 
 **7.** **You're all set!** ANYWAY is up and running with the DB data - connect to http://127.0.0.1:8080
 Note - you won't see the map since the key works in production.
